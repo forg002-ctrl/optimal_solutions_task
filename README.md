@@ -15,7 +15,7 @@ make start
 
 API documentation:
 ```bash
-http://localhost:3001/swagger
+http://localhost:3030/swagger
 ```
 
 For first route(list pipelines) was used the given api documentation page:
